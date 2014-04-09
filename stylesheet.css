@@ -1,0 +1,77 @@
+
+//styles
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	color: #061C37;
+	background: #014D5D url(background.png);
+	background-repeat:repeat-x;
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+ #page
+{
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+  width: 670px;
+}
+
+#mainPicture
+{
+width:670px;
+height:345px;
+background-color:#FFFFFF;
+}
+
+#mainPicture .picture
+{
+position:relative;
+width:650px;
+height:325px;
+top:10px;
+background-image:url(anoceanofsky.jpg);
+background-repeat:no-repeat;
+margin-left:10px;
+}
+
+#headerTitle
+{
+position:relative;
+top:30px;
+left:40px;
+font-size:25px;
+color:#FFFFFF;
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+}
+
+#headerSubtext
+{
+position:relative;
+top:30px;
+left:50px;
+font-size:14px;
+color:#A9C8FA;
+font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+}
+
+.contentBox
+{
+width:670px;
+height:auto;
+background-color:#FFFFFF;
+margin-top:10px;
+}
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
