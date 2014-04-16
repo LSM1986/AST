@@ -6,7 +6,7 @@ body {
 	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 	font-size: 13px;
 	color: #061C37;
-	background: #E2E9EE url(backgroundgood.png);
+	background: black url(backgroundgood.png);
 	background-repeat:repeat-x;
 }
 *
@@ -66,7 +66,7 @@ border-radius:25px;
 #mainPicture
 {
 width:700px;
-height:360px;
+height:320px;
 background-color:#FFFFFF;
 border:2px solid;
 border-radius:25px;
@@ -76,11 +76,11 @@ border-radius:25px;
 #mainPicture .picture
 {
 position:relative;
-width:600px;
-height:320px;
+width:650px;
+height:290px;
 top:10px;
 background-image:url(header.png);
-margin-left:10px;
+margin-left:3px;
 
 }
 
